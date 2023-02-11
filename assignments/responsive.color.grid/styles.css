@@ -1,0 +1,115 @@
+#topBox{
+    background-color: #F5C6D6 ;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+}
+#middle1{
+    background-color: #EE2E84;
+    height: 100px;
+    width: 25%;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+#middle2{
+    background-color: #EE2E84;
+    height: 100px;
+    width: 25%;
+    display: inline-block;
+}
+#middle3{
+    background-color: #EE2E84;
+    height: 100px;
+    width: 25%;
+    display: inline-block;
+}
+#middle4{
+    background-color: #EE2E84;
+    height: 100px;
+    width: 20%;
+    display: inline-block;
+}
+#lower1{
+    background-color: #85CFD8;
+    height: 100px;
+    width: 45%;
+    display: inline-block;
+    margin-left: 50px;
+}
+#lower2{
+    background-color: #85CFD8;
+    height: 100px;
+    width: 45%;
+    display: inline-block;
+}
+#bottom1{
+    background-color: #8DC63F;
+    height: 100px;
+    width: 75%;
+    display: inline-block;
+}
+#bottom2{
+    background-color: #E76E34;
+    height: 100px;
+    width: 23%;
+    display: inline-block;
+}
+
+
+@media(max-width: 768px){
+    #topBox{
+        background-color: #F5C6D6 ;
+        align-items: center;
+        height: 50px;
+        width: 100%;
+    }
+    #middle1{
+        background-color: #EE2E84;
+        height: 50px;
+        width: 100%;
+        display: inline-block;    
+    }
+    #middle2{
+        background-color: #EE2E84;
+        height: 50px;
+        width: 100%;
+        display: inline-block;
+    }
+    #middle3{
+        background-color: #EE2E84;
+        height: 50px;
+        width: 100%;
+        display: inline-block;
+    }
+    #middle4{
+        background-color: #EE2E84;
+        height: 50px;
+        width: 100%;
+        display: inline-block;
+    }
+    #lower1{
+        background-color: #85CFD8;
+        height: 50px;
+        width: 100%;
+        display: inline-block;
+    }
+    #lower2{
+        background-color: #85CFD8;
+        height: 50px;
+        width: 100%;
+        display: inline-block;
+    }
+    #bottom1{
+        background-color: #8DC63F;
+        height: 50px;
+        width: 100%;
+        display: inline-block;
+    }
+    #bottom2{
+        background-color: #E76E34;
+        height: 50px;
+        width: 100%;
+        display: inline-block;
+    }
+}
